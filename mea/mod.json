@@ -1,0 +1,18 @@
+{
+  "name": "神楽めあ",
+  "author": "bin",
+  "description": "图片来源:mea设定,画师paryi\n神乐mea立绘图片",
+  "dir": "/files",
+  "preview": "preview.png",
+  "replace": [
+	{
+      "from": "/0/[^/]+/extendRes/charactor/yiji/(bighead|smallhead|full|half|waitingroom)\\.png",
+      "to": "/0/v0.4.1.w/extendRes/charactor/yiji/$1.png"
+    },
+	{
+	  "from":"/0/[^/]+/scene/Assets/Resource/tablecloth/tablecloth_default/Table_Dif.jpg",
+	  "to":"/Table_Dif.jpg"
+	}
+  ],
+  "entry": "script.js"
+}
