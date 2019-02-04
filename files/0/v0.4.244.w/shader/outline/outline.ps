@@ -1,0 +1,16 @@
+﻿#ifdef FSHIGHPRECISION
+    precision highp float;
+#else
+    precision mediump float;
+#endif
+#include 'LightHelper.glsl';
+varying vec2 v_Texcoord;
+varying vec3 v_Normal;
+uniform vec4 u_outline_color;
+uniform float u_outline_alpha;
+
+void main(){
+    gl_FragColor = u_outline_color;
+    gl_FragColor.a = u_outline_alpha;
+    //gl_FragColor = texture2D(u_texture, v_Texcoord) * 0.3;
+}
