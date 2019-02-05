@@ -1,3 +1,4 @@
+
 # meamod
 
 基于[雀魂Plus](https://github.com/MajsoulPlus/majsoul-plus-client/releases)的一个mod
@@ -14,8 +15,13 @@
 	* 表情包来源: ~~沙雕群友~~
 ## 目前制作人员
 
-|人员|名字|个人主页链接|
+|人员|名字|制作|
 |-|-|-|
 |发起人|ccr|QQ:2938137849|
 |图片制作|ccr|twitter(**不常用**):[@**tenkuu_bin**](https://twitter.com/tenkuu_bin)|
-|音频制作(预定)|`isroy`||
+|音频截取|ccr|其余的音频(.MP3)|
+|音频截取|小A|fan_pinghu.mp3<br>fan_duanyao.mp3<br>fan_sianke.mp3|
+|音频截取(未定)|isroy||
+
+## mod预览
+[![b站链接](http://i2.hdslb.com/bfs/archive/bd845490b227916e4d1aaaa15ce34106b9fbcb00.jpg_320x200.jpg "缩略图")](https://www.bilibili.com/video/av42514503/)
