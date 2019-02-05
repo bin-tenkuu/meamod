@@ -48,15 +48,60 @@ if (game) {
         throw new Error()
       }
       console.log('Hacked所有语音')
-      Object.entries(cfg.voice.sound.groups_).forEach(
-        ([soundID, soundGroup]) => {
-          soundGroup.forEach((soundObject, index) => {
-            soundObject.level_limit = 0
-          })
-        }
-      )
-    } catch (error) {
-      requestAnimationFrame(autoRun)
-    }
+      Object.entries(cfg.voice.sound.groups_).forEach(([soundID, soundGroup]) => {
+				if (soundID == 1) {
+					const changeMap = {
+						登录语音普通: {
+							words: '你好,我很可爱.'
+						},
+						登录语音满羁绊: {
+							words: '你好,我很可爱.'
+						},
+						大厅交互语音1: {
+							words: '你好,我很可爱.'
+						},
+						大厅交互语音2: {
+							words: '早上好'
+						},
+						大厅交互语音3: {
+							words: '你好,我很可爱.'
+						},
+						大厅交互语音4: {
+							words: 'money~~money~~money~~'
+						},
+						大厅交互语音5: {
+							words: 	'喂,你对我有什么意见吗,有的话就快说啊!'
+						},
+						大厅交互语音6: {
+							words: '早上好'
+						},
+						大厅交互语音7: {
+							words: '我加,我加,我加,我加,kaguramea'
+						},
+						大厅交互语音8: {
+							words: '喂,你对我有什么意见吗,有的话就快说啊!'
+						},
+						送礼物语音普通: {
+							words: '务必 plz plz money'
+						},
+						送礼物语音喜好: {
+							words: '请给我钱'
+						}
+					}
+        const keyArray = Object.keys(changeMap)
+        soundGroup.forEach((soundObject, index) => {
+          soundObject.level_limit = 0
+          if (keyArray.includes(soundObject.name)) {
+            soundGroup[index] = {
+              ...soundObject,
+              ...changeMap[soundObject.name]
+            }
+          }
+        })
+      }
+    })
+  } catch (error) {
+    raf = requestAnimationFrame(autoRun)
+  }
   })
 }
