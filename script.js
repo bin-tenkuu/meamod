@@ -17,10 +17,10 @@ if (game) {
 							words: '康!'
 						},
 						碰: {
-							words: '婆nya!'
+							words: '碰nya!'
 						},
 						获得语音: {
-							words: '你好,我很可爱~'
+							words: '你好,初次见面,我教kaguramea,我系个女仆'
 						},
 						登录语音普通: {
 							words: '你好,我很可爱~'
@@ -32,10 +32,10 @@ if (game) {
 							words: '你好,我很可爱~'
 						},
 						大厅交互语音2: {
-							words: '早上好'
+							words: '我很可爱~yeah~我很可爱~en~我是@%$#%'
 						},
 						大厅交互语音3: {
-							words: '你好,我很可爱~'
+							words: '21岁,是homo(确信)'
 						},
 						大厅交互语音4: {
 							words: 'money~~money~~money~~'
@@ -44,19 +44,19 @@ if (game) {
 							words: 	'喂,你对我有什么意见吗,有的话就快说啊!'
 						},
 						大厅交互语音6: {
-							words: '早上好'
+							words: '早上好,主人,快点起来啦'
 						},
 						大厅交互语音7: {
-							words: '我加,我加,我加,我加,kaguramea'
+							words: '我叫,我叫,我叫,我叫,kaguramea'
 						},
 						大厅交互语音8: {
-							words: '喂,你对我有什么意见吗,有的话就快说啊!'
+							words: '( 脑 髓 吸 取 )'
 						},
 						送礼物语音普通: {
-							words: '务必 plz plz money'
+							words: '务必,please,please money'
 						},
 						送礼物语音喜好: {
-							words: '请给我钱'
+							words: '请   给   我   钱'
 						},
 						好感度升级语音1: {
 							words: '喂,你对我有什么意见吗,有的话就快说啊!'
