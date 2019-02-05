@@ -1,70 +1,41 @@
-// Hack 开启报番型，作者 aoarashi1988，Handle修改
+// 修改一姬语音台词以及人物简介
 if (game) {
-  game.Tools.get_chara_audio = function(e, t) {
-    if (t && '' != t) {
-      var charid = e.charid,
-        chara = cfg.item_definition.character.get(charid)
-      if (!chara) return null
-      for (
-        var a = 6, r = cfg.voice.sound.findGroup(chara.sound), o = [], s = 0;
-        s < r.length;
-        s++
-      )
-        r[s].type == t && r[s].level_limit <= a && o.push(s)
-      if (0 == o.length) return null
-      var h = o[Math.floor(Math.random() * o.length)]
-      return {
-        path: r[h].path,
-        volume: chara.sound_volume,
-        time_length: r[h].time_length
-      }
-    }
-  }
-  view.AudioMgr.PlayCharactorSound = function(e, t, i) {
-    var n = e.charid,
-      a = cfg.item_definition.character.get(n)
-    if (!a) return null
-    for (
-      var r = /* e.level */ 6,
-        o = cfg.voice.sound.findGroup(a.sound),
-        s = [],
-        h = 0;
-      h < o.length;
-      h++
-    )
-      o[h].type == t && o[h].level_limit <= r && s.push(h)
-    if (0 == s.length) return null
-    var l = s[Math.floor(Math.random() * s.length)]
-    return {
-      words: o[l].words,
-      sound: this.PlaySound(o[l].path, a.sound_volume, i)
-    }
-  }
-
   requestAnimationFrame(function autoRun() {
     try {
       const arrBackup = cfg.voice.sound.groups_
       if (!arrBackup || arrBackup.length === 0) {
         throw new Error()
       }
-      console.log('Hacked所有语音')
+      console.log('Hacked语音')
       Object.entries(cfg.voice.sound.groups_).forEach(([soundID, soundGroup]) => {
 				if (soundID == 1) {
 					const changeMap = {
+						吃: {
+							words: '弃哒'
+						},
+						杠: {
+							words: '康!'
+						},
+						碰: {
+							words: '婆nya!'
+						},
+						获得语音: {
+							words: '你好,我很可爱~'
+						},
 						登录语音普通: {
-							words: '你好,我很可爱.'
+							words: '你好,我很可爱~'
 						},
 						登录语音满羁绊: {
-							words: '你好,我很可爱.'
+							words: '你好,我很可爱~'
 						},
 						大厅交互语音1: {
-							words: '你好,我很可爱.'
+							words: '你好,我很可爱~'
 						},
 						大厅交互语音2: {
 							words: '早上好'
 						},
 						大厅交互语音3: {
-							words: '你好,我很可爱.'
+							words: '你好,我很可爱~'
 						},
 						大厅交互语音4: {
 							words: 'money~~money~~money~~'
@@ -86,11 +57,22 @@ if (game) {
 						},
 						送礼物语音喜好: {
 							words: '请给我钱'
+						},
+						好感度升级语音1: {
+							words: '喂,你对我有什么意见吗,有的话就快说啊!'
+						},
+						好感度升级语音2: {
+							words: '喂,你对我有什么意见吗,有的话就快说啊!'
+						},
+						好感度升级语音3: {
+							words: '喂,你对我有什么意见吗,有的话就快说啊!'
+						},
+						好感度升级语音4: {
+							words: '喂,你对我有什么意见吗,有的话就快说啊!'
 						}
 					}
         const keyArray = Object.keys(changeMap)
         soundGroup.forEach((soundObject, index) => {
-          soundObject.level_limit = 0
           if (keyArray.includes(soundObject.name)) {
             soundGroup[index] = {
               ...soundObject,
@@ -98,10 +80,14 @@ if (game) {
             }
           }
         })
-      }
-    })
-  } catch (error) {
-    raf = requestAnimationFrame(autoRun)
-  }
+				}
+			})
+			//console.log('Hacked简介暂时未完成')
+			//这个就是改不了
+			//cfg.item_definition.character.map_[200001].desc = '出现在paryi project的最初的VTB其中一人，现任异常的懒，虽然是杂鱼体力，但很坚定的声称自己是女仆。对于她而言，没有什么事情比摸鱼和上厕所更为重要。'
+			//cfg.item_definition.character.map_[200001].name = '神楽めあ'
+		} catch (error) {
+			raf = requestAnimationFrame(autoRun)
+		}
   })
 }
