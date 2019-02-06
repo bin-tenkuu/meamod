@@ -1,4 +1,5 @@
 
+
 # meamod
 
 基于[雀魂Plus](https://github.com/MajsoulPlus/majsoul-plus-client/releases)的一个mod
@@ -18,7 +19,7 @@
 |人员|名字|制作|
 |-|-|-|
 |发起人|ccr|QQ:2938137849|
-|图片制作|ccr|全部(`.jpg|.png`)文件|
+|图片制作|ccr|全部(```.jpg|.png```)文件|
 |音频截取|ccr|其余的音频(`.MP3`)|
 |音频截取|小A|fan_pinghu.mp3<br>fan_duanyao.mp3<br>fan_sianke.mp3|
 |音频截取(未定)|isroy||
