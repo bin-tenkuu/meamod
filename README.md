@@ -29,4 +29,4 @@ meamod成品下载:[下载地址](https://github.com/2938137849/meamod/releases/
 |音频截取(未定)|isroy||
 
 ## mod预览
-[![b站链接](http://i2.hdslb.com/bfs/archive/bd845490b227916e4d1aaaa15ce34106b9fbcb00.jpg_320x200.jpg "缩略图")](https://www.bilibili.com/video/av42514503/)
+[![b站链接](http://i2.hdslb.com/bfs/archive/bd845490b227916e4d1aaaa15ce34106b9fbcb00.jpg_320x200.jpg "点击观看预览")](https://www.bilibili.com/video/av42514503/)
