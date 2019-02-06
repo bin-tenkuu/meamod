@@ -4,7 +4,7 @@
 
 基于[雀魂Plus](https://github.com/MajsoulPlus/majsoul-plus-client/releases)的一个mod
 
-meamod成品下载:[下载地址](https://github.com/2938137849/meamod/releases/)
+meamod单品下载:[下载地址](https://github.com/2938137849/meamod/releases/)
 
 雀魂Plus下载:[下载地址](https://github.com/MajsoulPlus/majsoul-plus-client/releases)
 
