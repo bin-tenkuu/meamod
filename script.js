@@ -82,10 +82,22 @@ if (game) {
         })
 				}
 			})
-			//console.log('Hacked简介暂时未完成')
-			//这个就是改不了
-			//cfg.item_definition.character.map_[200001].desc = '出现在paryi project的最初的VTB其中一人，现任异常的懒，虽然是杂鱼体力，但很坚定的声称自己是女仆。对于她而言，没有什么事情比摸鱼和上厕所更为重要。'
-			//cfg.item_definition.character.map_[200001].name = '神楽めあ'
+			console.log('Hacked简介暂时未完成')
+			cfg.item_definition.character.rows_.forEach(chr =>{
+				switch(chr.id){
+					case 200001:
+						// 字库不全
+						// chr.name = ''
+						// 虽然左边不显示,但是右边有
+						chr.desc_cv = '田中庄司'
+						chr.desc = '日本Paryi Project的最初的VTB其中一人,设定是来自法国的军服女仆.在第一次直播时候就抛弃清楚并以「〇〇」操作和混沌发言而在中国出名'
+						chr.desc_age = '永远的1〇岁'
+						chr.desc_birth = '8月2日'
+						chr.desc_bloodtype = 'O型'
+						chr.desc_hobby = '摸鱼，迫害死宅'
+						chr.desc_stature = '90'
+				}
+			})
 		} catch (error) {
 			raf = requestAnimationFrame(autoRun)
 		}
