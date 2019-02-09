@@ -6,7 +6,7 @@
   "preview": "preview.png",
   "replace": [],
   "execute": {
-    "name": "一姬改神楽めあ台词插件",
+    "name": "一姬改神楽めあ台词和简介插件",
     "entry": "script.js"
   }
 }

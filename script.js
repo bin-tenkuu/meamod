@@ -82,22 +82,24 @@ if (game) {
         })
 				}
 			})
-			console.log('Hacked简介暂时未完成')
+			console.log('Hacked简介')
 			cfg.item_definition.character.rows_.forEach(chr =>{
 				switch(chr.id){
 					case 200001:
 						// 字库不全
-						// chr.name = ''
+						chr.name = '神楽めあ'
 						// 虽然左边不显示,但是右边有
 						chr.desc_cv = '田中庄司'
-						chr.desc = '日本Paryi Project的最初的VTB其中一人,设定是来自法国的军服女仆.在第一次直播时候就抛弃清楚并以「〇〇」操作和混沌发言而在中国出名'
+						chr.desc = '日本Paryi Project的最初的VTB其中一人,设定是来自法国的军服女仆.在第一次直播时候就抛弃清楚并以「手〇」操作和混沌发言而在中国出名'
 						chr.desc_age = '永远的1〇岁'
 						chr.desc_birth = '8月2日'
 						chr.desc_bloodtype = 'O型'
-						chr.desc_hobby = '摸鱼，迫害死宅'
-						chr.desc_stature = '90'
+						chr.desc_hobby = '钱，迫害死宅'
+						chr.desc_stature = '手〇'
 				}
 			})
+			console.log('Hacked标签')
+			ui.lobby.visitUI.uiView.child[2].child[6].child[0].child[0].child[1].child[0].props.text='特技: '
 		} catch (error) {
 			raf = requestAnimationFrame(autoRun)
 		}
