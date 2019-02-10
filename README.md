@@ -42,8 +42,8 @@ meaquamod下载:[下载地址](https://github.com/2938137849/meamod/releases/)
 </TR><TR>
 <TD  rowspan=2>图片制作</TD>
 <TD>ccr</TD>
-<TD>全部(`.jpg\|.png`)文件</TD>
-<TD>其余(`.jpg\|.png`)文件</TD>
+<TD>全部<code>(.jpg\|.png)</code>文件</TD>
+<TD>其余<code>(.jpg\|.png)</code>文件</TD>
 </TR><TR>
 <TD>isroy</TD>
 <TD>&nbsp;</TD>
@@ -51,7 +51,7 @@ meaquamod下载:[下载地址](https://github.com/2938137849/meamod/releases/)
 </TR><TR>
 <TD  rowspan=2>音频截取</TD>
 <TD>ccr</TD>
-<TD>其余的音频(`.MP3`)</TD>
+<TD>其余的音频<code>(.MP3)</code></TD>
 <TD>&nbsp;</TD>
 </TR><TR>
 <TD>xiaoA233</TD>
