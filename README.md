@@ -25,7 +25,7 @@ meaquamod下载:[下载地址](https://github.com/2938137849/meamod/releases/)
 		* [![](https://majsoul.union-game.com/9c7d813114e1aed5fa24401020c048db.png "雀魂游戏链接")](https://majsoul.union-game.com/#/)
 ## 目前制作人员
 
-<TABLE frame="box"  cellspacing=0  border="5">
+<TABLE frame="box"  cellspacing=0  border=2>
 <THEAD><TR><Th  align="center"  colspan=4>制作人员表</Th></TR></THEAD>
 <TR>
 <Th  rowspan=2>负责部分</TD>
