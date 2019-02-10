@@ -44,8 +44,8 @@ meaquamod下载:[下载地址](https://github.com/2938137849/meamod/releases/)
 </TR><TR>
 <TD  rowspan=2>图片制作</TD>
 <TD>ccr</TD>
-<TD>全部<code>(.jpg\|.png)</code>文件</TD>
-<TD>其余<code>(.jpg\|.png)</code>文件</TD>
+<TD>全部<code>(.jpg|.png)</code>文件</TD>
+<TD>其余<code>(.jpg|.png)</code>文件</TD>
 </TR><TR>
 <TD>isroy</TD>
 <TD>&nbsp;</TD>
