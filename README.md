@@ -1,14 +1,16 @@
-
 # meamod
-
 基于[雀魂Plus](https://github.com/MajsoulPlus/majsoul-plus-client/releases)的一个mod
+## 使用
+1. 访问 [雀魂Plus releases 页面](https://github.com/MajsoulPlus/majsoul-plus-client/releases) 下载最新版本
+2. 访问 [releases 页面](https://github.com/MajsoulPlus/majsoul-plus-client/releases) 下载最新版本mod
+3. 运行雀魂Plus并导入mspm文件
 
+在客户端中玩的开心！
+### 额外再附上一份下载地址
 meaquamod下载:[下载地址](https://github.com/2938137849/meamod/releases/)
 
 雀魂Plus下载:[下载地址](https://github.com/MajsoulPlus/majsoul-plus-client/releases)
-
 ## 素材来源
-
  * 音频素材来源: 
 	* 制作中
 	>但是大部分将会来自b站的mea官方组[@神楽めあOfficial](http://space.bilibili.com/349991143/)
