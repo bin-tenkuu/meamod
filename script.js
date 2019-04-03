@@ -104,12 +104,12 @@ if (game) {
 						chr.desc_birth = '12月1日'
 						chr.desc_bloodtype = '水'
 						chr.desc_hobby = '可爱的事物、寿司和游戏'
-						chr.desc_stature = '!!!!!!!!!!!!!!!!'
+						chr.desc_stature = 'a!!!!q!!!!u!!!!a!!!!'
 						break;
 				}
 			})
-			console.log('Hacked标签文本')
-			ui.lobby.visitUI.uiView.child[2].child[6].child[0].child[0].child[1].child[0].props.text='名言: '
+			// console.log('Hacked标签文本')
+			// ui.lobby.visitUI.uiView.child[2].child[6].child[0].child[0].child[1].child[0].props.text='名言: '
 		} catch (error) {
 			raf = requestAnimationFrame(autoRun)
 		}
