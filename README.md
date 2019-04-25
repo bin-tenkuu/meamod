@@ -24,7 +24,7 @@ meaquamod下载:[下载地址](https://github.com/2938137849/meamod/releases/)
 	* 其余图片来源: 
 		* ~~沙雕群友~~
 		* ([](http://www.majsoul.com/ "![](http://www.majsoul.com/2554a23baacaec142ed7dc0402ca535b.png 雀魂工作室链接)"))<-觉得不好我就给注释掉了
-		* [![](https://majsoul.union-game.com/9c7d813114e1aed5fa24401020c048db.png "雀魂游戏链接")](https://majsoul.union-game.com/#/)
+		* [![](https://majsoul.union-game.com/img/brand_logo.png "雀魂游戏链接")](https://majsoul.union-game.com/#/)
 ## 目前制作人员
 
 <TABLE  border=2>
