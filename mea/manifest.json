@@ -1,21 +1,21 @@
 {
 	"character": {
-			"id": 300001,
+			"id": 300200,
 			"name": "mea",
 			"name_chs": "神乐Mea",
 			"name_en": "Kagura Mea",
 			"name_jp": "神楽めあ",
 			"open": 1,
-			"init_skin": 500101,
-			"full_fetter_skin": 500101,
+			"init_skin": 520001,
+			"full_fetter_skin": 520001,
 			"favorite": 1,
 			"star_5_material": "302006-10,302009-10,303013-5,302002-10,302004-100",
 			"star_5_cost": 0,
 			"can_marry": 1,
 			"exchange_item_id": 302002,
 			"exchange_item_num": 75,
-			"emo": "extendRes/emo/e300001",
-			"sound": 9,
+			"emo": "extendRes/emo/e300200",
+			"sound": 1200,
 			"sound_volume": 0.4,
 			"sex": 0,
 			"desc_stature": "157厘米",
@@ -53,12 +53,12 @@
 			"name_chs": "神乐Mea",
 			"name_en": "Kagura Mea",
 			"name_jp": "神楽めあ",
-			"id": 500101,
+			"id": 520001,
 			"desc": "mea的初始形象",
 			"desc_chs": "mea的初始形象",
 			"desc_en": "mea的初始形象",
 			"desc_jp": "mea的初始形象",
-			"character_id": 300001,
+			"character_id": 300200,
 			"lock_tips": "",
 			"lock_tips_chs": "",
 			"lock_tips_en": "",
@@ -84,7 +84,7 @@
 			"face_y": 239
 	},
 	"voice": [{
-			"id": 9,
+			"id": 1200,
 			"name": "吃",
 			"name_chs": "吃",
 			"name_en": "Chii",
@@ -99,7 +99,7 @@
 			"time_length": 1000,
 			"path": "audio/sound/mea/act_chi"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "杠",
 			"name_chs": "杠",
 			"name_en": "Kan (Call for Quad)",
@@ -114,7 +114,7 @@
 			"time_length": 2000,
 			"path": "audio/sound/mea/act_kan"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "碰",
 			"name_chs": "碰",
 			"name_en": "Pon (Call for Triplet)",
@@ -129,7 +129,7 @@
 			"time_length": 1000,
 			"path": "audio/sound/mea/act_pon"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "拔北",
 			"name_chs": "拔北",
 			"name_en": "Replace North",
@@ -144,7 +144,7 @@
 			"time_length": 1000,
 			"path": "audio/sound/mea/act_babei"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "两立直",
 			"name_chs": "两立直",
 			"name_en": "Double Riichi",
@@ -159,7 +159,7 @@
 			"time_length": 2500,
 			"path": "audio/sound/mea/act_drich"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "立直",
 			"name_chs": "立直",
 			"name_en": "Riichi",
@@ -174,7 +174,7 @@
 			"time_length": 2500,
 			"path": "audio/sound/mea/act_rich"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "荣",
 			"name_chs": "荣",
 			"name_en": "Ron",
@@ -189,7 +189,7 @@
 			"time_length": 1000,
 			"path": "audio/sound/mea/act_ron"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "自摸",
 			"name_chs": "自摸",
 			"name_en": "Tsumo",
@@ -204,7 +204,7 @@
 			"time_length": 1000,
 			"path": "audio/sound/mea/act_tumo"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "终局一位语音",
 			"name_chs": "终局一位语音",
 			"name_en": "Finishing a game at 1st place",
@@ -219,7 +219,7 @@
 			"time_length": 4000,
 			"path": "audio/sound/mea/game_top"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "获得语音",
 			"name_chs": "获得语音",
 			"name_en": "Voice when obtained",
@@ -234,7 +234,7 @@
 			"time_length": 1000,
 			"path": "audio/sound/mea/lobby_selfintro"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "登录语音普通",
 			"name_chs": "登录语音普通",
 			"name_en": "Login Voice - Normal",
@@ -249,7 +249,7 @@
 			"time_length": 1000,
 			"path": "audio/sound/mea/lobby_playerlogin"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "登录语音满羁绊",
 			"name_chs": "登录语音满羁绊",
 			"name_en": "Login Voice - Max Bond",
@@ -264,7 +264,7 @@
 			"time_length": 1000,
 			"path": "audio/sound/mea/lobby_playerlogin_max"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "大厅交互语音1",
 			"name_chs": "大厅交互语音1",
 			"name_en": "Lobby Interactive Voice 1",
@@ -279,7 +279,7 @@
 			"time_length": 1000,
 			"path": "audio/sound/mea/lobby_normal1"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "大厅交互语音2",
 			"name_chs": "大厅交互语音2",
 			"name_en": "Lobby Interactive Voice 2",
@@ -294,7 +294,7 @@
 			"time_length": 1000,
 			"path": "audio/sound/mea/lobby_normal2"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "大厅交互语音3",
 			"name_chs": "大厅交互语音3",
 			"name_en": "Lobby Interactive Voice 3",
@@ -309,7 +309,7 @@
 			"time_length": 1000,
 			"path": "audio/sound/mea/lobby_normal3"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "大厅交互语音4",
 			"name_chs": "大厅交互语音4",
 			"name_en": "Lobby Interactive Voice 4",
@@ -324,7 +324,7 @@
 			"time_length": 1000,
 			"path": "audio/sound/mea/lobby_normal4"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "大厅交互语音5",
 			"name_chs": "大厅交互语音5",
 			"name_en": "Lobby Interactive Voice 5",
@@ -339,7 +339,7 @@
 			"time_length": 1000,
 			"path": "audio/sound/mea/lobby_normal5"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "大厅交互语音6",
 			"name_chs": "大厅交互语音6",
 			"name_en": "Lobby Interactive Voice 6",
@@ -354,7 +354,7 @@
 			"time_length": 1000,
 			"path": "audio/sound/mea/lobby_normalmax1"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "大厅交互语音7",
 			"name_chs": "大厅交互语音7",
 			"name_en": "Lobby Interactive Voice 7",
@@ -369,7 +369,7 @@
 			"time_length": 1000,
 			"path": "audio/sound/mea/lobby_normalmax2"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "大厅交互语音8",
 			"name_chs": "大厅交互语音8",
 			"name_en": "Lobby Interactive Voice 8",
@@ -384,7 +384,7 @@
 			"time_length": 1000,
 			"path": "audio/sound/mea/lobby_normalmax3"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "送礼物语音普通",
 			"name_chs": "送礼物语音普通",
 			"name_en": "Receiving Gift - Normal",
@@ -399,7 +399,7 @@
 			"time_length": 1000,
 			"path": "audio/sound/mea/lobby_gift"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "送礼物语音喜好",
 			"name_chs": "送礼物语音喜好",
 			"name_en": "Receiving Gift - Preferred",
@@ -414,7 +414,7 @@
 			"time_length": 1000,
 			"path": "audio/sound/mea/lobby_gift_favor"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "好感度升级语音1",
 			"name_chs": "好感度升级语音1",
 			"name_en": "Bond Level Up Voice 1",
@@ -429,7 +429,7 @@
 			"time_length": 1000,
 			"path": "audio/sound/mea/lobby_levelup1"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "好感度升级语音2",
 			"name_chs": "好感度升级语音2",
 			"name_en": "Bond Level Up Voice 2",
@@ -444,7 +444,7 @@
 			"time_length": 1000,
 			"path": "audio/sound/mea/lobby_levelup2"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "好感度升级语音3",
 			"name_chs": "好感度升级语音3",
 			"name_en": "Bond Level Up Voice 3",
@@ -459,7 +459,7 @@
 			"time_length": 1000,
 			"path": "audio/sound/mea/lobby_levelup3"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "好感度升级语音4",
 			"name_chs": "好感度升级语音4",
 			"name_en": "Bond Level Up Voice 4",
@@ -474,7 +474,7 @@
 			"time_length": 1000,
 			"path": "audio/sound/mea/lobby_levelmax"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "枪杠",
 			"name_chs": "枪杠",
 			"name_en": "Chankan",
@@ -489,7 +489,7 @@
 			"time_length": 1200,
 			"path": "audio/sound/mea/fan_qianggang"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "岭上开花",
 			"name_chs": "岭上开花",
 			"name_en": "Dead Wall Draw",
@@ -504,7 +504,7 @@
 			"time_length": 1500,
 			"path": "audio/sound/mea/fan_lingshang"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "海底摸月",
 			"name_chs": "海底摸月",
 			"name_en": "Last Pick",
@@ -519,7 +519,7 @@
 			"time_length": 1500,
 			"path": "audio/sound/mea/fan_haidi"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "河底捞鱼",
 			"name_chs": "河底捞鱼",
 			"name_en": "Last Discard",
@@ -534,7 +534,7 @@
 			"time_length": 1500,
 			"path": "audio/sound/mea/fan_hedi"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "东",
 			"name_chs": "东",
 			"name_en": "East",
@@ -549,7 +549,7 @@
 			"time_length": 600,
 			"path": "audio/sound/mea/fan_dong"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "南",
 			"name_chs": "南",
 			"name_en": "South",
@@ -564,7 +564,7 @@
 			"time_length": 600,
 			"path": "audio/sound/mea/fan_nan"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "西",
 			"name_chs": "西",
 			"name_en": "West",
@@ -579,7 +579,7 @@
 			"time_length": 600,
 			"path": "audio/sound/mea/fan_xi"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "北",
 			"name_chs": "北",
 			"name_en": "North",
@@ -594,7 +594,7 @@
 			"time_length": 600,
 			"path": "audio/sound/mea/fan_bei"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "中",
 			"name_chs": "中",
 			"name_en": "Red",
@@ -609,7 +609,7 @@
 			"time_length": 600,
 			"path": "audio/sound/mea/fan_zhong"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "白",
 			"name_chs": "白",
 			"name_en": "White",
@@ -624,7 +624,7 @@
 			"time_length": 600,
 			"path": "audio/sound/mea/fan_bai"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "发",
 			"name_chs": "发",
 			"name_en": "Green",
@@ -639,7 +639,7 @@
 			"time_length": 600,
 			"path": "audio/sound/mea/fan_fa"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "连东",
 			"name_chs": "连东",
 			"name_en": "East Repeat",
@@ -654,7 +654,7 @@
 			"time_length": 1000,
 			"path": "audio/sound/mea/fan_doubledong"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "连南",
 			"name_chs": "连南",
 			"name_en": "South Repeat",
@@ -669,7 +669,7 @@
 			"time_length": 1000,
 			"path": "audio/sound/mea/fan_doublenan"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "连西",
 			"name_chs": "连西",
 			"name_en": "West Repeat",
@@ -684,7 +684,7 @@
 			"time_length": 1000,
 			"path": "audio/sound/mea/fan_doublexi"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "连北",
 			"name_chs": "连北",
 			"name_en": "North Repeat",
@@ -699,7 +699,7 @@
 			"time_length": 1000,
 			"path": "audio/sound/mea/fan_doublebei"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "断幺",
 			"name_chs": "断幺",
 			"name_en": "Tanyao",
@@ -714,7 +714,7 @@
 			"time_length": 1000,
 			"path": "audio/sound/mea/fan_duanyao"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "一杯口",
 			"name_chs": "一杯口",
 			"name_en": "Double Sequence",
@@ -729,7 +729,7 @@
 			"time_length": 1500,
 			"path": "audio/sound/mea/fan_yibeikou"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "平和",
 			"name_chs": "平和",
 			"name_en": "Flat Hand",
@@ -744,7 +744,7 @@
 			"time_length": 1000,
 			"path": "audio/sound/mea/fan_pinghu"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "混全带幺九",
 			"name_chs": "混全带幺九",
 			"name_en": "Terminal or Honor in Every Group",
@@ -759,7 +759,7 @@
 			"time_length": 1000,
 			"path": "audio/sound/mea/fan_hunquandaiyaojiu"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "一气通贯",
 			"name_chs": "一气通贯",
 			"name_en": "Straight",
@@ -774,7 +774,7 @@
 			"time_length": 1000,
 			"path": "audio/sound/mea/fan_yiqitongguan"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "三色同顺",
 			"name_chs": "三色同顺",
 			"name_en": "Triple Sequence",
@@ -789,7 +789,7 @@
 			"time_length": 1500,
 			"path": "audio/sound/mea/fan_sansetongshun"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "三色同刻",
 			"name_chs": "三色同刻",
 			"name_en": "Triple Triplets",
@@ -804,7 +804,7 @@
 			"time_length": 1500,
 			"path": "audio/sound/mea/fan_sansetongke"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "三杠子",
 			"name_chs": "三杠子",
 			"name_en": "Three Quads",
@@ -819,7 +819,7 @@
 			"time_length": 1200,
 			"path": "audio/sound/mea/fan_sangangzi"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "对对和",
 			"name_chs": "对对和",
 			"name_en": "All Triplets",
@@ -834,7 +834,7 @@
 			"time_length": 1000,
 			"path": "audio/sound/mea/fan_duiduihu"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "三暗刻",
 			"name_chs": "三暗刻",
 			"name_en": "Three Concealed Triplets",
@@ -849,7 +849,7 @@
 			"time_length": 1200,
 			"path": "audio/sound/mea/fan_sananke"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "小三元",
 			"name_chs": "小三元",
 			"name_en": "Little Three Dragons",
@@ -864,7 +864,7 @@
 			"time_length": 1200,
 			"path": "audio/sound/mea/fan_xiaosanyuan"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "混老头",
 			"name_chs": "混老头",
 			"name_en": "Pure Terminal Hand",
@@ -879,7 +879,7 @@
 			"time_length": 1200,
 			"path": "audio/sound/mea/fan_hunlaotou"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "七对子",
 			"name_chs": "七对子",
 			"name_en": "Seven Pairs",
@@ -894,7 +894,7 @@
 			"time_length": 1800,
 			"path": "audio/sound/mea/fan_qiduizi"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "纯全带幺九",
 			"name_chs": "纯全带幺九",
 			"name_en": "Terminal in Every Group",
@@ -909,7 +909,7 @@
 			"time_length": 1000,
 			"path": "audio/sound/mea/fan_chunquandaiyaojiu"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "混一色",
 			"name_chs": "混一色",
 			"name_en": "Mixed Flush",
@@ -924,7 +924,7 @@
 			"time_length": 1000,
 			"path": "audio/sound/mea/fan_hunyise"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "二杯口",
 			"name_chs": "二杯口",
 			"name_en": "Double Double Sequence",
@@ -939,7 +939,7 @@
 			"time_length": 1200,
 			"path": "audio/sound/mea/fan_erbeikou"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "清一色",
 			"name_chs": "清一色",
 			"name_en": "Pure Flush",
@@ -954,7 +954,7 @@
 			"time_length": 1000,
 			"path": "audio/sound/mea/fan_qingyise"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "立直",
 			"name_chs": "立直",
 			"name_en": "Riichi",
@@ -969,7 +969,7 @@
 			"time_length": 1000,
 			"path": "audio/sound/mea/fan_liqi"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "两立直",
 			"name_chs": "两立直",
 			"name_en": "Double Riichi",
@@ -984,7 +984,7 @@
 			"time_length": 1200,
 			"path": "audio/sound/mea/fan_dliqi"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "自摸",
 			"name_chs": "自摸",
 			"name_en": "Tsumo",
@@ -999,7 +999,7 @@
 			"time_length": 1000,
 			"path": "audio/sound/mea/fan_zimo"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "一发",
 			"name_chs": "一发",
 			"name_en": "Ippatsu",
@@ -1014,7 +1014,7 @@
 			"time_length": 1000,
 			"path": "audio/sound/mea/fan_yifa"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "宝牌",
 			"name_chs": "宝牌",
 			"name_en": "Dora",
@@ -1029,7 +1029,7 @@
 			"time_length": 600,
 			"path": "audio/sound/mea/fan_dora1"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "宝牌2",
 			"name_chs": "宝牌2",
 			"name_en": "Dora 2",
@@ -1044,7 +1044,7 @@
 			"time_length": 800,
 			"path": "audio/sound/mea/fan_dora2"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "宝牌3",
 			"name_chs": "宝牌3",
 			"name_en": "Dora 3",
@@ -1059,7 +1059,7 @@
 			"time_length": 1000,
 			"path": "audio/sound/mea/fan_dora3"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "宝牌4",
 			"name_chs": "宝牌4",
 			"name_en": "Dora 4",
@@ -1074,7 +1074,7 @@
 			"time_length": 1500,
 			"path": "audio/sound/mea/fan_dora4"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "宝牌5",
 			"name_chs": "宝牌5",
 			"name_en": "Dora 5",
@@ -1089,7 +1089,7 @@
 			"time_length": 1800,
 			"path": "audio/sound/mea/fan_dora5"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "宝牌6",
 			"name_chs": "宝牌6",
 			"name_en": "Dora 6",
@@ -1104,7 +1104,7 @@
 			"time_length": 2000,
 			"path": "audio/sound/mea/fan_dora6"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "宝牌7",
 			"name_chs": "宝牌7",
 			"name_en": "Dora 7",
@@ -1119,7 +1119,7 @@
 			"time_length": 1000,
 			"path": "audio/sound/mea/fan_dora7"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "宝牌8",
 			"name_chs": "宝牌8",
 			"name_en": "Dora 8",
@@ -1134,7 +1134,7 @@
 			"time_length": 1000,
 			"path": "audio/sound/mea/fan_dora8"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "宝牌9",
 			"name_chs": "宝牌9",
 			"name_en": "Dora 9",
@@ -1149,7 +1149,7 @@
 			"time_length": 1000,
 			"path": "audio/sound/mea/fan_dora9"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "宝牌10",
 			"name_chs": "宝牌10",
 			"name_en": "Dora 10",
@@ -1164,7 +1164,7 @@
 			"time_length": 1000,
 			"path": "audio/sound/mea/fan_dora10"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "宝牌11",
 			"name_chs": "宝牌11",
 			"name_en": "Dora 11",
@@ -1179,7 +1179,7 @@
 			"time_length": 1000,
 			"path": "audio/sound/mea/fan_dora11"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "宝牌12",
 			"name_chs": "宝牌12",
 			"name_en": "Dora 12",
@@ -1194,7 +1194,7 @@
 			"time_length": 1200,
 			"path": "audio/sound/mea/fan_dora12"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "宝牌一大堆",
 			"name_chs": "宝牌一大堆",
 			"name_en": "Lots of Dora",
@@ -1209,7 +1209,7 @@
 			"time_length": 1200,
 			"path": "audio/sound/mea/fan_dora13"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "天和",
 			"name_chs": "天和",
 			"name_en": "Miracle (Dealer)",
@@ -1224,7 +1224,7 @@
 			"time_length": 1000,
 			"path": "audio/sound/mea/fan_tianhu"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "地和",
 			"name_chs": "地和",
 			"name_en": "Miracle (Non-Dealer)",
@@ -1239,7 +1239,7 @@
 			"time_length": 1000,
 			"path": "audio/sound/mea/fan_dihu"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "大三元",
 			"name_chs": "大三元",
 			"name_en": "Big Three Dragons",
@@ -1254,7 +1254,7 @@
 			"time_length": 1200,
 			"path": "audio/sound/mea/fan_dasanyuan"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "四暗刻",
 			"name_chs": "四暗刻",
 			"name_en": "Four Concealed Triplets",
@@ -1269,7 +1269,7 @@
 			"time_length": 1200,
 			"path": "audio/sound/mea/fan_sianke"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "四暗刻单骑",
 			"name_chs": "四暗刻单骑",
 			"name_en": "Four Concealed Triplets (Single Wait)",
@@ -1284,7 +1284,7 @@
 			"time_length": 2400,
 			"path": "audio/sound/mea/fan_siankedanqi"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "字一色",
 			"name_chs": "字一色",
 			"name_en": "All Word Tiles",
@@ -1299,7 +1299,7 @@
 			"time_length": 1200,
 			"path": "audio/sound/mea/fan_ziyise"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "绿一色",
 			"name_chs": "绿一色",
 			"name_en": "All Green",
@@ -1314,7 +1314,7 @@
 			"time_length": 1200,
 			"path": "audio/sound/mea/fan_lvyise"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "清老头",
 			"name_chs": "清老头",
 			"name_en": "All Ends",
@@ -1329,7 +1329,7 @@
 			"time_length": 1200,
 			"path": "audio/sound/mea/fan_qinglaotou"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "国士无双",
 			"name_chs": "国士无双",
 			"name_en": "Thirteen Orphans",
@@ -1344,7 +1344,7 @@
 			"time_length": 1500,
 			"path": "audio/sound/mea/fan_guoshiwushuang"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "国士无双13面听",
 			"name_chs": "国士无双13面听",
 			"name_en": "Thirteen Orphans (Thirteen Waits)",
@@ -1359,7 +1359,7 @@
 			"time_length": 2200,
 			"path": "audio/sound/mea/fan_guoshishisanmian"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "小四喜",
 			"name_chs": "小四喜",
 			"name_en": "Four Little Winds",
@@ -1374,7 +1374,7 @@
 			"time_length": 1500,
 			"path": "audio/sound/mea/fan_xiaosixi"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "大四喜",
 			"name_chs": "大四喜",
 			"name_en": "Four Big Winds",
@@ -1389,7 +1389,7 @@
 			"time_length": 1500,
 			"path": "audio/sound/mea/fan_dasixi"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "四杠子",
 			"name_chs": "四杠子",
 			"name_en": "Four Quads",
@@ -1404,7 +1404,7 @@
 			"time_length": 1500,
 			"path": "audio/sound/mea/fan_sigangzi"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "九莲宝灯",
 			"name_chs": "九莲宝灯",
 			"name_en": "Nine Lanterns",
@@ -1419,7 +1419,7 @@
 			"time_length": 1500,
 			"path": "audio/sound/mea/fan_jiulianbaodeng"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "纯正九莲宝灯",
 			"name_chs": "纯正九莲宝灯",
 			"name_en": "Nine Lanterns (Pure)",
@@ -1434,7 +1434,7 @@
 			"time_length": 2000,
 			"path": "audio/sound/mea/fan_chunzhengjiulianbaodeng"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "流局满贯",
 			"name_chs": "流局满贯",
 			"name_en": "Mangan at Draw",
@@ -1449,7 +1449,7 @@
 			"time_length": 2000,
 			"path": "audio/sound/mea/fan_liujumanguan"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "满贯",
 			"name_chs": "满贯",
 			"name_en": "Mangan",
@@ -1464,7 +1464,7 @@
 			"time_length": 1200,
 			"path": "audio/sound/mea/gameend_manguan"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "跳满",
 			"name_chs": "跳满",
 			"name_en": "Haneman",
@@ -1479,7 +1479,7 @@
 			"time_length": 1200,
 			"path": "audio/sound/mea/gameend_tiaoman"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "倍满",
 			"name_chs": "倍满",
 			"name_en": "Baiman",
@@ -1494,7 +1494,7 @@
 			"time_length": 1200,
 			"path": "audio/sound/mea/gameend_beiman"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "三倍满",
 			"name_chs": "三倍满",
 			"name_en": "Sanbaiman",
@@ -1509,7 +1509,7 @@
 			"time_length": 1500,
 			"path": "audio/sound/mea/gameend_sanbeiman"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "累积役满",
 			"name_chs": "累积役满",
 			"name_en": "Counted Yakuman",
@@ -1524,7 +1524,7 @@
 			"time_length": 2000,
 			"path": "audio/sound/mea/gameend_leijiyiman"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "役满",
 			"name_chs": "役满",
 			"name_en": "Yakuman",
@@ -1539,7 +1539,7 @@
 			"time_length": 2200,
 			"path": "audio/sound/mea/gameend_yiman1"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "两倍役满",
 			"name_chs": "两倍役满",
 			"name_en": "Double Yakuman",
@@ -1554,7 +1554,7 @@
 			"time_length": 2200,
 			"path": "audio/sound/mea/gameend_yiman2"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "三倍役满",
 			"name_chs": "三倍役满",
 			"name_en": "Triple Yakuman",
@@ -1569,7 +1569,7 @@
 			"time_length": 2500,
 			"path": "audio/sound/mea/gameend_yiman3"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "四倍役满",
 			"name_chs": "四倍役满",
 			"name_en": "Quadruple Yakuman",
@@ -1584,7 +1584,7 @@
 			"time_length": 2500,
 			"path": "audio/sound/mea/gameend_yiman4"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "五倍役满",
 			"name_chs": "五倍役满",
 			"name_en": "Quintuple Yakuman",
@@ -1599,7 +1599,7 @@
 			"time_length": 2500,
 			"path": "audio/sound/mea/gameend_yiman5"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "六倍役满",
 			"name_chs": "六倍役满",
 			"name_en": "Sextuple Yakuman",
@@ -1614,7 +1614,7 @@
 			"time_length": 2500,
 			"path": "audio/sound/mea/gameend_yiman6"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "听牌",
 			"name_chs": "听牌",
 			"name_en": "Tenpai (Ready Hand)",
@@ -1629,7 +1629,7 @@
 			"time_length": 1000,
 			"path": "audio/sound/mea/gameend_tingpai"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "未听牌",
 			"name_chs": "未听牌",
 			"name_en": "No-ten (No Ready Hand)",
@@ -1644,7 +1644,7 @@
 			"time_length": 1000,
 			"path": "audio/sound/mea/gameend_noting"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "四杠流局",
 			"name_chs": "四杠流局",
 			"name_en": "Four Quads Draw",
@@ -1659,7 +1659,7 @@
 			"time_length": 2400,
 			"path": "audio/sound/mea/gameend_sigangliuju"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "四风连打",
 			"name_chs": "四风连打",
 			"name_en": "Four Winds Draw",
@@ -1674,7 +1674,7 @@
 			"time_length": 1400,
 			"path": "audio/sound/mea/gameend_sifenglianda"
 	}, {
-			"id": 9,
+			"id": 1200,
 			"name": "九种九牌",
 			"name_chs": "九种九牌",
 			"name_en": "Nine Terminal Initial Draw",
