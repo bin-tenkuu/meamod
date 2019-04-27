@@ -15,8 +15,8 @@
 			"exchange_item_id": 302002,
 			"exchange_item_num": 75,
 			"emo": "extendRes/emo/e200001",
-			"sound": 1200,
-			"sound_volume": 1,
+			"sound": 102,
+			"sound_volume": 0.4,
 			"sex": 1,
 			"desc_stature": "000 cm",
 			"desc_stature_chs": "000 cm",
@@ -83,5 +83,5 @@
 			"face_x": 1281,
 			"face_y": 239
 	},
-	"emoCount": 9
+	"emoCount": 0
 }
