@@ -61,6 +61,6 @@ meaquamod下载:[下载地址](https://github.com/2938137849/meamod/releases/)
 <TD>&nbsp;</TD></TR></TABLE>
 
 ## 需要你的帮助
-meamod预计后期会做成vtbmod,但是音频的剪辑需要你来协助!如果您方便帮助,请联系QQ:62938137849
+meamod预计后期会做成vtbmod,但是音频的剪辑需要你来协助!如果您方便帮助,请联系QQ:2938137849
 ## mod预览
 [![b站链接](http://i2.hdslb.com/bfs/archive/bd845490b227916e4d1aaaa15ce34106b9fbcb00.jpg_320x200.jpg "点击观看预览")](https://www.bilibili.com/video/av42514503/)
