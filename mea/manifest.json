@@ -18,10 +18,10 @@
 			"sound": 1200,
 			"sound_volume": 0.4,
 			"sex": 0,
-			"desc_stature": "157厘米",
-			"desc_stature_chs": "157厘米",
-			"desc_stature_en": "157厘米",
-			"desc_stature_jp": "157厘米",
+			"desc_stature": "157 cm（算上靴子）",
+			"desc_stature_chs": "157 cm（算上靴子）",
+			"desc_stature_en": "157 cm（算上靴子）",
+			"desc_stature_jp": "157 cm（算上靴子）",
 			"desc_birth": "8月2日",
 			"desc_birth_chs": "8月2日",
 			"desc_birth_en": "8月2日",
@@ -30,18 +30,18 @@
 			"desc_age_chs": "3~60",
 			"desc_age_en": "3~60",
 			"desc_age_jp": "3~60",
-			"desc_bloodtype": "O型",
-			"desc_bloodtype_chs": "O型",
-			"desc_bloodtype_en": "O型",
-			"desc_bloodtype_jp": "O型",
+			"desc_bloodtype": "O",
+			"desc_bloodtype_chs": "O",
+			"desc_bloodtype_en": "O",
+			"desc_bloodtype_jp": "O",
 			"desc_cv": "田中庄司",
 			"desc_cv_chs": "田中庄司",
 			"desc_cv_en": "田中庄司",
 			"desc_cv_jp": "田中庄司",
-			"desc_hobby": "嘴臭、手〇",
-			"desc_hobby_chs": "嘴臭、手〇",
-			"desc_hobby_en": "嘴臭、手〇",
-			"desc_hobby_jp": "嘴臭、手〇",
+			"desc_hobby": "钱，迫害死宅",
+			"desc_hobby_chs": "钱，迫害死宅",
+			"desc_hobby_en": "钱，迫害死宅",
+			"desc_hobby_jp": "钱，迫害死宅",
 			"desc": "日本Paryi Project的最初的VTB其中一人,设定是来自法国的军服女仆.在第一次直播时候就抛弃清楚并以「手〇」操作和混沌发言而在中国出名,喜欢岭上开花但是从来没打出来过.\n(湊あくあ:めあ酱麻将很强)",
 			"desc_chs": "日本Paryi Project的最初的VTB其中一人,设定是来自法国的军服女仆.在第一次直播时候就抛弃清楚并以「手〇」操作和混沌发言而在中国出名,喜欢岭上开花但是从来没打出来过.\n(湊あくあ:めあ酱麻将很强)",
 			"desc_en": "日本Paryi Project的最初的VTB其中一人,设定是来自法国的军服女仆.在第一次直播时候就抛弃清楚并以「手〇」操作和混沌发言而在中国出名,喜欢岭上开花但是从来没打出来过.\n(湊あくあ:めあ酱麻将很强)",
@@ -66,20 +66,20 @@
 			"path": "extendRes/charactor/mea",
 			"exchange_item_id": 302002,
 			"exchange_item_num": 60,
-			"full_height": 2672,
-			"full_width": 2008,
+			"full_height": 1024,
+			"full_width": 680,
 			"full_x": 1112,
 			"full_y": 320,
-			"half_width": 1357,
-			"half_height": 1094,
+			"half_width": 766,
+			"half_height": 511,
 			"half_x": 1301,
 			"half_y": 720,
-			"smallhead_width": 430,
-			"smallhead_height": 430,
+			"smallhead_width": 256,
+			"smallhead_height": 256,
 			"smallhead_x": 1219,
 			"smallhead_y": 184,
-			"face_width": 328,
-			"face_height": 328,
+			"face_width": 256,
+			"face_height": 256,
 			"face_x": 1281,
 			"face_y": 239
 	},
@@ -215,7 +215,7 @@
 			"words_jp": "清算一位",
 			"category": 2,
 			"type": "game_top",
-			"level_limit": 1,
+			"level_limit": 0,
 			"time_length": 4000,
 			"path": "audio/sound/mea/game_top"
 	}, {
@@ -224,10 +224,10 @@
 			"name_chs": "获得语音",
 			"name_en": "Voice when obtained",
 			"name_jp": "出会い",
-			"words": "兄弟借个火",
-			"words_chs": "兄弟借个火",
-			"words_en": "兄弟借个火",
-			"words_jp": "兄弟借个火",
+			"words": "你好,初次见面,我教kaguramea,我系个女仆",
+			"words_chs": "你好,初次见面,我教kaguramea,我系个女仆",
+			"words_en": "你好,初次见面,我教kaguramea,我系个女仆",
+			"words_jp": "你好,初次见面,我教kaguramea,我系个女仆",
 			"category": 1,
 			"type": "lobby_selfintro",
 			"level_limit": 0,
@@ -239,10 +239,10 @@
 			"name_chs": "登录语音普通",
 			"name_en": "Login Voice - Normal",
 			"name_jp": "ログイン・普通",
-			"words": "小伙子今天看直播了吗...",
-			"words_chs": "小伙子今天看直播了吗...",
-			"words_en": "小伙子今天看直播了吗...",
-			"words_jp": "小伙子今天看直播了吗...",
+			"words": "你好,我很可爱~",
+			"words_chs": "你好,我很可爱~",
+			"words_en": "你好,我很可爱~",
+			"words_jp": "你好,我很可爱~",
 			"category": 1,
 			"type": "lobby_playerlogin",
 			"level_limit": 0,
@@ -254,13 +254,13 @@
 			"name_chs": "登录语音满羁绊",
 			"name_en": "Login Voice - Max Bond",
 			"name_jp": "ログイン・絆LvMAX",
-			"words": "小伙子再不来看直播老子就失业了...",
-			"words_chs": "小伙子再不来看直播老子就失业了...",
-			"words_en": "小伙子再不来看直播老子就失业了...",
-			"words_jp": "小伙子再不来看直播老子就失业了...",
+			"words": "早上好,主人,快点起来啦",
+			"words_chs": "早上好,主人,快点起来啦",
+			"words_en": "早上好,主人,快点起来啦",
+			"words_jp": "早上好,主人,快点起来啦",
 			"category": 1,
 			"type": "lobby_playerlogin",
-			"level_limit": 5,
+			"level_limit": 0,
 			"time_length": 1000,
 			"path": "audio/sound/mea/lobby_playerlogin_max"
 	}, {
@@ -269,10 +269,10 @@
 			"name_chs": "大厅交互语音1",
 			"name_en": "Lobby Interactive Voice 1",
 			"name_jp": "メイン1",
-			"words": "草 垃圾游戏",
-			"words_chs": "草 垃圾游戏",
-			"words_en": "草 垃圾游戏",
-			"words_jp": "草 垃圾游戏",
+			"words": "你好,我很可爱~",
+			"words_chs": "你好,我很可爱~",
+			"words_en": "你好,我很可爱~",
+			"words_jp": "你好,我很可爱~",
 			"category": 1,
 			"type": "lobby_normal",
 			"level_limit": 0,
@@ -284,10 +284,10 @@
 			"name_chs": "大厅交互语音2",
 			"name_en": "Lobby Interactive Voice 2",
 			"name_jp": "メイン2",
-			"words": "草 真的没法玩",
-			"words_chs": "草 真的没法玩",
-			"words_en": "草 真的没法玩",
-			"words_jp": "草 真的没法玩",
+			"words": "我很可爱~yeah~我很可爱~en~我是@%$#%",
+			"words_chs": "我很可爱~yeah~我很可爱~en~我是@%$#%",
+			"words_en": "我很可爱~yeah~我很可爱~en~我是@%$#%",
+			"words_jp": "我很可爱~yeah~我很可爱~en~我是@%$#%",
 			"category": 1,
 			"type": "lobby_normal",
 			"level_limit": 0,
@@ -299,13 +299,13 @@
 			"name_chs": "大厅交互语音3",
 			"name_en": "Lobby Interactive Voice 3",
 			"name_jp": "メイン3",
-			"words": "草 好难阿",
-			"words_chs": "草 好难阿",
-			"words_en": "草 好难阿",
-			"words_jp": "草 好难阿",
+			"words": "21岁,是homo(确信)",
+			"words_chs": "21岁,是homo(确信)",
+			"words_en": "21岁,是homo(确信)",
+			"words_jp": "21岁,是homo(确信)",
 			"category": 1,
 			"type": "lobby_normal",
-			"level_limit": 1,
+			"level_limit": 0,
 			"time_length": 1000,
 			"path": "audio/sound/mea/lobby_normal3"
 	}, {
@@ -314,13 +314,13 @@
 			"name_chs": "大厅交互语音4",
 			"name_en": "Lobby Interactive Voice 4",
 			"name_jp": "メイン4",
-			"words": "草 再不来斗鱼12666看直播老子失业了",
-			"words_chs": "草 再不来斗鱼12666看直播老子失业了",
-			"words_en": "草 再不来斗鱼12666看直播老子失业了",
-			"words_jp": "草 再不来斗鱼12666看直播老子失业了",
+			"words": "money~~money~~money~~",
+			"words_chs": "money~~money~~money~~",
+			"words_en": "money~~money~~money~~",
+			"words_jp": "money~~money~~money~~",
 			"category": 1,
 			"type": "lobby_normal",
-			"level_limit": 2,
+			"level_limit": 0,
 			"time_length": 1000,
 			"path": "audio/sound/mea/lobby_normal4"
 	}, {
@@ -329,13 +329,13 @@
 			"name_chs": "大厅交互语音5",
 			"name_en": "Lobby Interactive Voice 5",
 			"name_jp": "メイン5",
-			"words": "草",
-			"words_chs": "草",
-			"words_en": "草",
-			"words_jp": "草",
+			"words": "喂,你对我有什么意见吗,有的话就快说啊!",
+			"words_chs": "喂,你对我有什么意见吗,有的话就快说啊!",
+			"words_en": "喂,你对我有什么意见吗,有的话就快说啊!",
+			"words_jp": "喂,你对我有什么意见吗,有的话就快说啊!",
 			"category": 1,
 			"type": "lobby_normal",
-			"level_limit": 3,
+			"level_limit": 0,
 			"time_length": 1000,
 			"path": "audio/sound/mea/lobby_normal5"
 	}, {
@@ -344,13 +344,13 @@
 			"name_chs": "大厅交互语音6",
 			"name_en": "Lobby Interactive Voice 6",
 			"name_jp": "メイン6",
-			"words": "LYC是条狗",
-			"words_chs": "LYC是条狗",
-			"words_en": "LYC是条狗",
-			"words_jp": "LYC是条狗",
+			"words": "早上好,主人,快点起来啦",
+			"words_chs": "早上好,主人,快点起来啦",
+			"words_en": "早上好,主人,快点起来啦",
+			"words_jp": "早上好,主人,快点起来啦",
 			"category": 1,
 			"type": "lobby_normal",
-			"level_limit": 4,
+			"level_limit": 0,
 			"time_length": 1000,
 			"path": "audio/sound/mea/lobby_normalmax1"
 	}, {
@@ -359,13 +359,13 @@
 			"name_chs": "大厅交互语音7",
 			"name_en": "Lobby Interactive Voice 7",
 			"name_jp": "メイン7",
-			"words": "LYC小脑不发达",
-			"words_chs": "LYC小脑不发达",
-			"words_en": "LYC小脑不发达",
-			"words_jp": "LYC小脑不发达",
+			"words": "我叫,我叫,我叫,我叫,kaguramea",
+			"words_chs": "我叫,我叫,我叫,我叫,kaguramea",
+			"words_en": "我叫,我叫,我叫,我叫,kaguramea",
+			"words_jp": "我叫,我叫,我叫,我叫,kaguramea",
 			"category": 1,
 			"type": "lobby_normal",
-			"level_limit": 5,
+			"level_limit": 0,
 			"time_length": 1000,
 			"path": "audio/sound/mea/lobby_normalmax2"
 	}, {
@@ -374,13 +374,13 @@
 			"name_chs": "大厅交互语音8",
 			"name_en": "Lobby Interactive Voice 8",
 			"name_jp": "メイン8",
-			"words": "LYC是我最差的一个儿子",
-			"words_chs": "LYC是我最差的一个儿子",
-			"words_en": "LYC是我最差的一个儿子",
-			"words_jp": "LYC是我最差的一个儿子",
+			"words": "( 脑 髓 吸 取 )",
+			"words_chs": "( 脑 髓 吸 取 )",
+			"words_en": "( 脑 髓 吸 取 )",
+			"words_jp": "( 脑 髓 吸 取 )",
 			"category": 1,
 			"type": "lobby_normal",
-			"level_limit": 5,
+			"level_limit": 0,
 			"time_length": 1000,
 			"path": "audio/sound/mea/lobby_normalmax3"
 	}, {
@@ -389,10 +389,10 @@
 			"name_chs": "送礼物语音普通",
 			"name_en": "Receiving Gift - Normal",
 			"name_jp": "プレゼント・普通",
-			"words": "谢谢啊",
-			"words_chs": "谢谢啊",
-			"words_en": "谢谢啊",
-			"words_jp": "谢谢啊",
+			"words": "务必,please,please money",
+			"words_chs": "务必,please,please money",
+			"words_en": "务必,please,please money",
+			"words_jp": "务必,please,please money",
 			"category": 1,
 			"type": "lobby_gift",
 			"level_limit": 0,
@@ -404,10 +404,10 @@
 			"name_chs": "送礼物语音喜好",
 			"name_en": "Receiving Gift - Preferred",
 			"name_jp": "プレゼント・好み",
-			"words": "谢谢啊！",
-			"words_chs": "谢谢啊！",
-			"words_en": "谢谢啊！",
-			"words_jp": "谢谢啊！",
+			"words": "请    给    我    钱！",
+			"words_chs": "请    给    我    钱！",
+			"words_en": "请    给    我    钱！",
+			"words_jp": "请    给    我    钱！",
 			"category": 1,
 			"type": "lobby_gift_favor",
 			"level_limit": 0,
@@ -419,13 +419,13 @@
 			"name_chs": "好感度升级语音1",
 			"name_en": "Bond Level Up Voice 1",
 			"name_jp": "絆レベルアップ1",
-			"words": "嗯...可以的",
-			"words_chs": "嗯...可以的",
-			"words_en": "嗯...可以的",
-			"words_jp": "嗯...可以的",
+			"words": "务必,please,please money",
+			"words_chs": "务必,please,please money",
+			"words_en": "务必,please,please money",
+			"words_jp": "务必,please,please money",
 			"category": 1,
 			"type": "lobby_levelup1",
-			"level_limit": 2,
+			"level_limit": 0,
 			"time_length": 1000,
 			"path": "audio/sound/mea/lobby_levelup1"
 	}, {
@@ -434,13 +434,13 @@
 			"name_chs": "好感度升级语音2",
 			"name_en": "Bond Level Up Voice 2",
 			"name_jp": "絆レベルアップ2",
-			"words": "嗯...你可以的",
-			"words_chs": "嗯...你可以的",
-			"words_en": "嗯...你可以的",
-			"words_jp": "嗯...你可以的",
+			"words": "money~~money~~money~~",
+			"words_chs": "money~~money~~money~~",
+			"words_en": "money~~money~~money~~",
+			"words_jp": "money~~money~~money~~",
 			"category": 1,
 			"type": "lobby_levelup2",
-			"level_limit": 3,
+			"level_limit": 0,
 			"time_length": 1000,
 			"path": "audio/sound/mea/lobby_levelup2"
 	}, {
@@ -449,13 +449,13 @@
 			"name_chs": "好感度升级语音3",
 			"name_en": "Bond Level Up Voice 3",
 			"name_jp": "絆レベルアップ3",
-			"words": "嗯...你真的可以的",
-			"words_chs": "嗯...你真的可以的",
-			"words_en": "嗯...你真的可以的",
-			"words_jp": "嗯...你真的可以的",
+			"words": "money~~money~~money~~",
+			"words_chs": "money~~money~~money~~",
+			"words_en": "money~~money~~money~~",
+			"words_jp": "money~~money~~money~~",
 			"category": 1,
 			"type": "lobby_levelup3",
-			"level_limit": 4,
+			"level_limit": 0,
 			"time_length": 1000,
 			"path": "audio/sound/mea/lobby_levelup3"
 	}, {
@@ -464,13 +464,13 @@
 			"name_chs": "好感度升级语音4",
 			"name_en": "Bond Level Up Voice 4",
 			"name_jp": "絆レベルアップ4",
-			"words": "嗯...你这个小伙子非常非常可以",
-			"words_chs": "嗯...你这个小伙子非常非常可以",
-			"words_en": "嗯...你这个小伙子非常非常可以",
-			"words_jp": "嗯...你这个小伙子非常非常可以",
+			"words": "money~~money~~money~~",
+			"words_chs": "money~~money~~money~~",
+			"words_en": "money~~money~~money~~",
+			"words_jp": "money~~money~~money~~",
 			"category": 1,
 			"type": "lobby_levelmax",
-			"level_limit": 5,
+			"level_limit": 0,
 			"time_length": 1000,
 			"path": "audio/sound/mea/lobby_levelmax"
 	}, {
@@ -485,7 +485,7 @@
 			"words_jp": "枪杠",
 			"category": 2,
 			"type": "fan_qianggang",
-			"level_limit": 5,
+			"level_limit": 0,
 			"time_length": 1200,
 			"path": "audio/sound/mea/fan_qianggang"
 	}, {
@@ -500,7 +500,7 @@
 			"words_jp": "岭上开花",
 			"category": 2,
 			"type": "fan_lingshang",
-			"level_limit": 5,
+			"level_limit": 0,
 			"time_length": 1500,
 			"path": "audio/sound/mea/fan_lingshang"
 	}, {
@@ -515,7 +515,7 @@
 			"words_jp": "海底摸月",
 			"category": 2,
 			"type": "fan_haidi",
-			"level_limit": 5,
+			"level_limit": 0,
 			"time_length": 1500,
 			"path": "audio/sound/mea/fan_haidi"
 	}, {
@@ -530,7 +530,7 @@
 			"words_jp": "河底捞鱼",
 			"category": 2,
 			"type": "fan_hedi",
-			"level_limit": 5,
+			"level_limit": 0,
 			"time_length": 1500,
 			"path": "audio/sound/mea/fan_hedi"
 	}, {
@@ -545,7 +545,7 @@
 			"words_jp": "东",
 			"category": 2,
 			"type": "fan_dong",
-			"level_limit": 5,
+			"level_limit": 0,
 			"time_length": 600,
 			"path": "audio/sound/mea/fan_dong"
 	}, {
@@ -560,7 +560,7 @@
 			"words_jp": "南",
 			"category": 2,
 			"type": "fan_nan",
-			"level_limit": 5,
+			"level_limit": 0,
 			"time_length": 600,
 			"path": "audio/sound/mea/fan_nan"
 	}, {
@@ -575,7 +575,7 @@
 			"words_jp": "西",
 			"category": 2,
 			"type": "fan_xi",
-			"level_limit": 5,
+			"level_limit": 0,
 			"time_length": 600,
 			"path": "audio/sound/mea/fan_xi"
 	}, {
@@ -590,7 +590,7 @@
 			"words_jp": "北",
 			"category": 2,
 			"type": "fan_bei",
-			"level_limit": 5,
+			"level_limit": 0,
 			"time_length": 600,
 			"path": "audio/sound/mea/fan_bei"
 	}, {
@@ -605,7 +605,7 @@
 			"words_jp": "中",
 			"category": 2,
 			"type": "fan_zhong",
-			"level_limit": 5,
+			"level_limit": 0,
 			"time_length": 600,
 			"path": "audio/sound/mea/fan_zhong"
 	}, {
@@ -620,7 +620,7 @@
 			"words_jp": "白",
 			"category": 2,
 			"type": "fan_bai",
-			"level_limit": 5,
+			"level_limit": 0,
 			"time_length": 600,
 			"path": "audio/sound/mea/fan_bai"
 	}, {
@@ -635,7 +635,7 @@
 			"words_jp": "发",
 			"category": 2,
 			"type": "fan_fa",
-			"level_limit": 5,
+			"level_limit": 0,
 			"time_length": 600,
 			"path": "audio/sound/mea/fan_fa"
 	}, {
@@ -650,7 +650,7 @@
 			"words_jp": "连东",
 			"category": 2,
 			"type": "fan_doubledong",
-			"level_limit": 5,
+			"level_limit": 0,
 			"time_length": 1000,
 			"path": "audio/sound/mea/fan_doubledong"
 	}, {
@@ -665,7 +665,7 @@
 			"words_jp": "连南",
 			"category": 2,
 			"type": "fan_doublenan",
-			"level_limit": 5,
+			"level_limit": 0,
 			"time_length": 1000,
 			"path": "audio/sound/mea/fan_doublenan"
 	}, {
@@ -680,7 +680,7 @@
 			"words_jp": "连西",
 			"category": 2,
 			"type": "fan_doublexi",
-			"level_limit": 5,
+			"level_limit": 0,
 			"time_length": 1000,
 			"path": "audio/sound/mea/fan_doublexi"
 	}, {
@@ -695,7 +695,7 @@
 			"words_jp": "连北",
 			"category": 2,
 			"type": "fan_doublebei",
-			"level_limit": 5,
+			"level_limit": 0,
 			"time_length": 1000,
 			"path": "audio/sound/mea/fan_doublebei"
 	}, {
@@ -710,7 +710,7 @@
 			"words_jp": "断幺",
 			"category": 2,
 			"type": "fan_duanyao",
-			"level_limit": 5,
+			"level_limit": 0,
 			"time_length": 1000,
 			"path": "audio/sound/mea/fan_duanyao"
 	}, {
@@ -725,7 +725,7 @@
 			"words_jp": "一杯口",
 			"category": 2,
 			"type": "fan_yibeikou",
-			"level_limit": 5,
+			"level_limit": 0,
 			"time_length": 1500,
 			"path": "audio/sound/mea/fan_yibeikou"
 	}, {
@@ -740,7 +740,7 @@
 			"words_jp": "平和",
 			"category": 2,
 			"type": "fan_pinghu",
-			"level_limit": 5,
+			"level_limit": 0,
 			"time_length": 1000,
 			"path": "audio/sound/mea/fan_pinghu"
 	}, {
@@ -755,7 +755,7 @@
 			"words_jp": "混全带幺九",
 			"category": 2,
 			"type": "fan_hunquandaiyaojiu",
-			"level_limit": 5,
+			"level_limit": 0,
 			"time_length": 1000,
 			"path": "audio/sound/mea/fan_hunquandaiyaojiu"
 	}, {
@@ -770,7 +770,7 @@
 			"words_jp": "一气通贯",
 			"category": 2,
 			"type": "fan_yiqitongguan",
-			"level_limit": 5,
+			"level_limit": 0,
 			"time_length": 1000,
 			"path": "audio/sound/mea/fan_yiqitongguan"
 	}, {
@@ -785,7 +785,7 @@
 			"words_jp": "三色同顺",
 			"category": 2,
 			"type": "fan_sansetongshun",
-			"level_limit": 5,
+			"level_limit": 0,
 			"time_length": 1500,
 			"path": "audio/sound/mea/fan_sansetongshun"
 	}, {
@@ -800,7 +800,7 @@
 			"words_jp": "三色同刻",
 			"category": 2,
 			"type": "fan_sansetongke",
-			"level_limit": 5,
+			"level_limit": 0,
 			"time_length": 1500,
 			"path": "audio/sound/mea/fan_sansetongke"
 	}, {
@@ -815,7 +815,7 @@
 			"words_jp": "三杠子",
 			"category": 2,
 			"type": "fan_sangangzi",
-			"level_limit": 5,
+			"level_limit": 0,
 			"time_length": 1200,
 			"path": "audio/sound/mea/fan_sangangzi"
 	}, {
@@ -830,7 +830,7 @@
 			"words_jp": "对对和",
 			"category": 2,
 			"type": "fan_duiduihu",
-			"level_limit": 5,
+			"level_limit": 0,
 			"time_length": 1000,
 			"path": "audio/sound/mea/fan_duiduihu"
 	}, {
@@ -845,7 +845,7 @@
 			"words_jp": "三暗刻",
 			"category": 2,
 			"type": "fan_sananke",
-			"level_limit": 5,
+			"level_limit": 0,
 			"time_length": 1200,
 			"path": "audio/sound/mea/fan_sananke"
 	}, {
@@ -860,7 +860,7 @@
 			"words_jp": "小三元",
 			"category": 2,
 			"type": "fan_xiaosanyuan",
-			"level_limit": 5,
+			"level_limit": 0,
 			"time_length": 1200,
 			"path": "audio/sound/mea/fan_xiaosanyuan"
 	}, {
@@ -875,7 +875,7 @@
 			"words_jp": "混老头",
 			"category": 2,
 			"type": "fan_hunlaotou",
-			"level_limit": 5,
+			"level_limit": 0,
 			"time_length": 1200,
 			"path": "audio/sound/mea/fan_hunlaotou"
 	}, {
@@ -890,7 +890,7 @@
 			"words_jp": "七对子",
 			"category": 2,
 			"type": "fan_qiduizi",
-			"level_limit": 5,
+			"level_limit": 0,
 			"time_length": 1800,
 			"path": "audio/sound/mea/fan_qiduizi"
 	}, {
@@ -905,7 +905,7 @@
 			"words_jp": "纯全带幺九",
 			"category": 2,
 			"type": "fan_chunquandaiyaojiu",
-			"level_limit": 5,
+			"level_limit": 0,
 			"time_length": 1000,
 			"path": "audio/sound/mea/fan_chunquandaiyaojiu"
 	}, {
@@ -920,7 +920,7 @@
 			"words_jp": "混一色",
 			"category": 2,
 			"type": "fan_hunyise",
-			"level_limit": 5,
+			"level_limit": 0,
 			"time_length": 1000,
 			"path": "audio/sound/mea/fan_hunyise"
 	}, {
@@ -935,7 +935,7 @@
 			"words_jp": "二杯口",
 			"category": 2,
 			"type": "fan_erbeikou",
-			"level_limit": 5,
+			"level_limit": 0,
 			"time_length": 1200,
 			"path": "audio/sound/mea/fan_erbeikou"
 	}, {
@@ -950,7 +950,7 @@
 			"words_jp": "清一色",
 			"category": 2,
 			"type": "fan_qingyise",
-			"level_limit": 5,
+			"level_limit": 0,
 			"time_length": 1000,
 			"path": "audio/sound/mea/fan_qingyise"
 	}, {
@@ -965,7 +965,7 @@
 			"words_jp": "立直",
 			"category": 2,
 			"type": "fan_liqi",
-			"level_limit": 5,
+			"level_limit": 0,
 			"time_length": 1000,
 			"path": "audio/sound/mea/fan_liqi"
 	}, {
@@ -980,7 +980,7 @@
 			"words_jp": "两立直",
 			"category": 2,
 			"type": "fan_dliqi",
-			"level_limit": 5,
+			"level_limit": 0,
 			"time_length": 1200,
 			"path": "audio/sound/mea/fan_dliqi"
 	}, {
@@ -995,7 +995,7 @@
 			"words_jp": "自摸",
 			"category": 2,
 			"type": "fan_zimo",
-			"level_limit": 5,
+			"level_limit": 0,
 			"time_length": 1000,
 			"path": "audio/sound/mea/fan_zimo"
 	}, {
@@ -1010,7 +1010,7 @@
 			"words_jp": "一发",
 			"category": 2,
 			"type": "fan_yifa",
-			"level_limit": 5,
+			"level_limit": 0,
 			"time_length": 1000,
 			"path": "audio/sound/mea/fan_yifa"
 	}, {
@@ -1025,7 +1025,7 @@
 			"words_jp": "宝牌",
 			"category": 2,
 			"type": "fan_dora1",
-			"level_limit": 5,
+			"level_limit": 0,
 			"time_length": 600,
 			"path": "audio/sound/mea/fan_dora1"
 	}, {
@@ -1040,7 +1040,7 @@
 			"words_jp": "宝牌2",
 			"category": 2,
 			"type": "fan_dora2",
-			"level_limit": 5,
+			"level_limit": 0,
 			"time_length": 800,
 			"path": "audio/sound/mea/fan_dora2"
 	}, {
@@ -1055,7 +1055,7 @@
 			"words_jp": "宝牌3",
 			"category": 2,
 			"type": "fan_dora3",
-			"level_limit": 5,
+			"level_limit": 0,
 			"time_length": 1000,
 			"path": "audio/sound/mea/fan_dora3"
 	}, {
@@ -1070,7 +1070,7 @@
 			"words_jp": "宝牌4",
 			"category": 2,
 			"type": "fan_dora4",
-			"level_limit": 5,
+			"level_limit": 0,
 			"time_length": 1500,
 			"path": "audio/sound/mea/fan_dora4"
 	}, {
@@ -1085,7 +1085,7 @@
 			"words_jp": "宝牌5",
 			"category": 2,
 			"type": "fan_dora5",
-			"level_limit": 5,
+			"level_limit": 0,
 			"time_length": 1800,
 			"path": "audio/sound/mea/fan_dora5"
 	}, {
@@ -1100,7 +1100,7 @@
 			"words_jp": "宝牌6",
 			"category": 2,
 			"type": "fan_dora6",
-			"level_limit": 5,
+			"level_limit": 0,
 			"time_length": 2000,
 			"path": "audio/sound/mea/fan_dora6"
 	}, {
@@ -1115,7 +1115,7 @@
 			"words_jp": "宝牌7",
 			"category": 2,
 			"type": "fan_dora7",
-			"level_limit": 5,
+			"level_limit": 0,
 			"time_length": 1000,
 			"path": "audio/sound/mea/fan_dora7"
 	}, {
@@ -1130,7 +1130,7 @@
 			"words_jp": "宝牌8",
 			"category": 2,
 			"type": "fan_dora8",
-			"level_limit": 5,
+			"level_limit": 0,
 			"time_length": 1000,
 			"path": "audio/sound/mea/fan_dora8"
 	}, {
@@ -1145,7 +1145,7 @@
 			"words_jp": "宝牌9",
 			"category": 2,
 			"type": "fan_dora9",
-			"level_limit": 5,
+			"level_limit": 0,
 			"time_length": 1000,
 			"path": "audio/sound/mea/fan_dora9"
 	}, {
@@ -1160,7 +1160,7 @@
 			"words_jp": "宝牌10",
 			"category": 2,
 			"type": "fan_dora10",
-			"level_limit": 5,
+			"level_limit": 0,
 			"time_length": 1000,
 			"path": "audio/sound/mea/fan_dora10"
 	}, {
@@ -1175,7 +1175,7 @@
 			"words_jp": "宝牌11",
 			"category": 2,
 			"type": "fan_dora11",
-			"level_limit": 5,
+			"level_limit": 0,
 			"time_length": 1000,
 			"path": "audio/sound/mea/fan_dora11"
 	}, {
@@ -1190,7 +1190,7 @@
 			"words_jp": "宝牌12",
 			"category": 2,
 			"type": "fan_dora12",
-			"level_limit": 5,
+			"level_limit": 0,
 			"time_length": 1200,
 			"path": "audio/sound/mea/fan_dora12"
 	}, {
@@ -1205,7 +1205,7 @@
 			"words_jp": "宝牌一大堆",
 			"category": 2,
 			"type": "fan_dora13",
-			"level_limit": 5,
+			"level_limit": 0,
 			"time_length": 1200,
 			"path": "audio/sound/mea/fan_dora13"
 	}, {
@@ -1220,7 +1220,7 @@
 			"words_jp": "天和",
 			"category": 2,
 			"type": "fan_tianhu",
-			"level_limit": 5,
+			"level_limit": 0,
 			"time_length": 1000,
 			"path": "audio/sound/mea/fan_tianhu"
 	}, {
@@ -1235,7 +1235,7 @@
 			"words_jp": "地和",
 			"category": 2,
 			"type": "fan_dihu",
-			"level_limit": 5,
+			"level_limit": 0,
 			"time_length": 1000,
 			"path": "audio/sound/mea/fan_dihu"
 	}, {
@@ -1250,7 +1250,7 @@
 			"words_jp": "大三元",
 			"category": 2,
 			"type": "fan_dasanyuan",
-			"level_limit": 5,
+			"level_limit": 0,
 			"time_length": 1200,
 			"path": "audio/sound/mea/fan_dasanyuan"
 	}, {
@@ -1265,7 +1265,7 @@
 			"words_jp": "四暗刻",
 			"category": 2,
 			"type": "fan_sianke",
-			"level_limit": 5,
+			"level_limit": 0,
 			"time_length": 1200,
 			"path": "audio/sound/mea/fan_sianke"
 	}, {
@@ -1280,7 +1280,7 @@
 			"words_jp": "四暗刻单骑",
 			"category": 2,
 			"type": "fan_siankedanqi",
-			"level_limit": 5,
+			"level_limit": 0,
 			"time_length": 2400,
 			"path": "audio/sound/mea/fan_siankedanqi"
 	}, {
@@ -1295,7 +1295,7 @@
 			"words_jp": "字一色",
 			"category": 2,
 			"type": "fan_ziyise",
-			"level_limit": 5,
+			"level_limit": 0,
 			"time_length": 1200,
 			"path": "audio/sound/mea/fan_ziyise"
 	}, {
@@ -1310,7 +1310,7 @@
 			"words_jp": "绿一色",
 			"category": 2,
 			"type": "fan_lvyise",
-			"level_limit": 5,
+			"level_limit": 0,
 			"time_length": 1200,
 			"path": "audio/sound/mea/fan_lvyise"
 	}, {
@@ -1325,7 +1325,7 @@
 			"words_jp": "清老头",
 			"category": 2,
 			"type": "fan_qinglaotou",
-			"level_limit": 5,
+			"level_limit": 0,
 			"time_length": 1200,
 			"path": "audio/sound/mea/fan_qinglaotou"
 	}, {
@@ -1340,7 +1340,7 @@
 			"words_jp": "国士无双",
 			"category": 2,
 			"type": "fan_guoshiwushuang",
-			"level_limit": 5,
+			"level_limit": 0,
 			"time_length": 1500,
 			"path": "audio/sound/mea/fan_guoshiwushuang"
 	}, {
@@ -1355,7 +1355,7 @@
 			"words_jp": "国士无双13面听",
 			"category": 2,
 			"type": "fan_guoshishisanmian",
-			"level_limit": 5,
+			"level_limit": 0,
 			"time_length": 2200,
 			"path": "audio/sound/mea/fan_guoshishisanmian"
 	}, {
@@ -1370,7 +1370,7 @@
 			"words_jp": "小四喜",
 			"category": 2,
 			"type": "fan_xiaosixi",
-			"level_limit": 5,
+			"level_limit": 0,
 			"time_length": 1500,
 			"path": "audio/sound/mea/fan_xiaosixi"
 	}, {
@@ -1385,7 +1385,7 @@
 			"words_jp": "大四喜",
 			"category": 2,
 			"type": "fan_dasixi",
-			"level_limit": 5,
+			"level_limit": 0,
 			"time_length": 1500,
 			"path": "audio/sound/mea/fan_dasixi"
 	}, {
@@ -1400,7 +1400,7 @@
 			"words_jp": "四杠子",
 			"category": 2,
 			"type": "fan_sigangzi",
-			"level_limit": 5,
+			"level_limit": 0,
 			"time_length": 1500,
 			"path": "audio/sound/mea/fan_sigangzi"
 	}, {
@@ -1415,7 +1415,7 @@
 			"words_jp": "九莲宝灯",
 			"category": 2,
 			"type": "fan_jiulianbaodeng",
-			"level_limit": 5,
+			"level_limit": 0,
 			"time_length": 1500,
 			"path": "audio/sound/mea/fan_jiulianbaodeng"
 	}, {
@@ -1430,7 +1430,7 @@
 			"words_jp": "纯正九莲宝灯",
 			"category": 2,
 			"type": "fan_chunzhengjiulianbaodeng",
-			"level_limit": 5,
+			"level_limit": 0,
 			"time_length": 2000,
 			"path": "audio/sound/mea/fan_chunzhengjiulianbaodeng"
 	}, {
@@ -1445,7 +1445,7 @@
 			"words_jp": "流局满贯",
 			"category": 2,
 			"type": "fan_liujumanguan",
-			"level_limit": 5,
+			"level_limit": 0,
 			"time_length": 2000,
 			"path": "audio/sound/mea/fan_liujumanguan"
 	}, {
@@ -1460,7 +1460,7 @@
 			"words_jp": "满贯",
 			"category": 2,
 			"type": "gameend_manguan",
-			"level_limit": 5,
+			"level_limit": 0,
 			"time_length": 1200,
 			"path": "audio/sound/mea/gameend_manguan"
 	}, {
@@ -1475,7 +1475,7 @@
 			"words_jp": "跳满",
 			"category": 2,
 			"type": "gameend_tiaoman",
-			"level_limit": 5,
+			"level_limit": 0,
 			"time_length": 1200,
 			"path": "audio/sound/mea/gameend_tiaoman"
 	}, {
@@ -1490,7 +1490,7 @@
 			"words_jp": "倍满",
 			"category": 2,
 			"type": "gameend_beiman",
-			"level_limit": 5,
+			"level_limit": 0,
 			"time_length": 1200,
 			"path": "audio/sound/mea/gameend_beiman"
 	}, {
@@ -1505,7 +1505,7 @@
 			"words_jp": "三倍满",
 			"category": 2,
 			"type": "gameend_sanbeiman",
-			"level_limit": 5,
+			"level_limit": 0,
 			"time_length": 1500,
 			"path": "audio/sound/mea/gameend_sanbeiman"
 	}, {
@@ -1520,7 +1520,7 @@
 			"words_jp": "累积役满",
 			"category": 2,
 			"type": "gameend_leijiyiman",
-			"level_limit": 5,
+			"level_limit": 0,
 			"time_length": 2000,
 			"path": "audio/sound/mea/gameend_leijiyiman"
 	}, {
@@ -1535,7 +1535,7 @@
 			"words_jp": "役满",
 			"category": 2,
 			"type": "gameend_yiman1",
-			"level_limit": 5,
+			"level_limit": 0,
 			"time_length": 2200,
 			"path": "audio/sound/mea/gameend_yiman1"
 	}, {
@@ -1550,7 +1550,7 @@
 			"words_jp": "两倍役满",
 			"category": 2,
 			"type": "gameend_yiman2",
-			"level_limit": 5,
+			"level_limit": 0,
 			"time_length": 2200,
 			"path": "audio/sound/mea/gameend_yiman2"
 	}, {
@@ -1565,7 +1565,7 @@
 			"words_jp": "三倍役满",
 			"category": 2,
 			"type": "gameend_yiman3",
-			"level_limit": 5,
+			"level_limit": 0,
 			"time_length": 2500,
 			"path": "audio/sound/mea/gameend_yiman3"
 	}, {
@@ -1580,7 +1580,7 @@
 			"words_jp": "四倍役满",
 			"category": 2,
 			"type": "gameend_yiman4",
-			"level_limit": 5,
+			"level_limit": 0,
 			"time_length": 2500,
 			"path": "audio/sound/mea/gameend_yiman4"
 	}, {
@@ -1595,7 +1595,7 @@
 			"words_jp": "五倍役满",
 			"category": 2,
 			"type": "gameend_yiman5",
-			"level_limit": 5,
+			"level_limit": 0,
 			"time_length": 2500,
 			"path": "audio/sound/mea/gameend_yiman5"
 	}, {
@@ -1610,7 +1610,7 @@
 			"words_jp": "六倍役满",
 			"category": 2,
 			"type": "gameend_yiman6",
-			"level_limit": 5,
+			"level_limit": 0,
 			"time_length": 2500,
 			"path": "audio/sound/mea/gameend_yiman6"
 	}, {
