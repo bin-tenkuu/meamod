@@ -1,27 +1,32 @@
 {
-  "name": "めあくあ",
-  "author": "天狗&制作组",
-  "description": "图片来源:mea立绘&aqua立绘&fanart",
-  "dir": "/files",
-  "preview": "preview.png",
-  "replace": [
+	"name": "めあくあ",
+	"author": "v1.5.4",
+	"description": "图片来源:mea立绘&aqua立绘&fanart\n自带字体替换",
+	"dir": "/files",
+	"preview": "preview.png",
+	"replace": [
 		{
-			"from":"/v(?:\\d+\\.)*w/(audio/music)/",
-			"to":"/$1/"
-		},{
-			"from":"/v(?:\\d+\\.)*w/(audio/sound/yiji|extendRes/charactor/yiji(?:_0)?)/",
-			"to":"/$1/"
-		},{
-			"from":"/v(?:\\d+\\.)*w/(extendRes/emo/e200001)/",
-			"to":"/$1/"
+			"from": "/v(?:\\d+\\.)+w/(audio/music)/",
+			"to": "/$1/"
 		},
 		{
-			"from":"/v(?:\\d+\\.)*w/(extendRes/charactor/erjietang(?:_0)?)/",
-			"to":"/$1/"
+			"from": "/v(?:\\d+\\.)+w/(audio/sound/yiji|extendRes/charactor/yiji(?:_0)?)/",
+			"to": "/$1/"
+		},
+		{
+			"from": "/v(?:\\d+\\.)+w/(extendRes/emo/e200001)/",
+			"to": "/$1/"
+		},
+		{
+			"from": "/v(?:\\d+\\.)+w/(extendRes/charactor/erjietang(?:_0)?)/",
+			"to": "/$1/"
 		}
 	],
-  "execute": {
-    "name": "一姬改神楽めあ台词和简介插件",
-    "entry": "script.js"
-  }
+	"execute": {
+		"name": "一姬改神楽めあ台词和简介插件",
+		"entry": "script.js",
+		"executePreferences": {
+			"document": true
+		}
+	}
 }
