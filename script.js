@@ -22,25 +22,25 @@ requestAnimationFrame(function autoRun() {
 						"words": '你好,我很可爱~'
 					},
 					"大厅交互语音2": {
-						"words": '我叫,我叫,我叫,我叫,kaguramea'
+						"words": '我很可爱~yeah~我很可爱~en~我是@%$#%'
 					},
 					"大厅交互语音3": {
-						"words": 'money~~money~~money~~'
-					},
-					"大厅交互语音4": {
 						"words": '21岁,是homo(确信)'
 					},
+					"大厅交互语音4": {
+						"words": 'money~~money~~money~~'
+					},
 					"大厅交互语音5": {
-						"words": '我很可爱~yeah~我很可爱~en~我是@%$#%'
+						"words": '喂,你对我有什么意见吗,有的话就快说啊!'
 					},
 					"大厅交互语音6": {
 						"words": '早上好,主人,快点起来啦'
 					},
 					"大厅交互语音7": {
-						"words": '( 脑 髓 吸 取 )'
+						"words": '|我叫,我叫,我叫,我叫,kaguramea'
 					},
 					"大厅交互语音8": {
-						"words": '喂,你对我有什么意见吗,有的话就快说啊!'
+						"words": '( 脑 髓 吸 取 )'
 					},
 					"送礼物语音普通": {
 						"words": '务必,please,please money'
