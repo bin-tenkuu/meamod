@@ -1,6 +1,6 @@
 {
 	"name": "めあくあ",
-	"author": "v1.5.5",
+	"author": "v1.5.6",
 	"description": "图片来源:mea立绘&aqua立绘&fanart\n自带字体替换",
 	"dir": "/files",
 	"preview": "preview.png",
@@ -11,6 +11,10 @@
 		},
 		{
 			"from": "/v(?:\\d+\\.)+w/(audio/sound/yiji|extendRes/charactor/yiji(?:_0)?)/",
+			"to": "/$1/"
+		},
+		{
+			"from": "/v(?:\\d+\\.)+w/(audio/sound/erjietang|extendRes/charactor/erjietang(?:_0)?)/",
 			"to": "/$1/"
 		},
 		{
