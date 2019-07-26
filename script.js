@@ -114,16 +114,21 @@ requestAnimationFrame(function autoRun() {
 	const oldNewRoundplay = view.ActionNewRound.play;
 	view.ActionNewRound.play = function (e) {
 		if (view.DesktopMgr.Inst["player_datas"][view.DesktopMgr.Inst["seat"]]["character"]["charid"] === 200001)
-			Laya.SoundManager.playSound("sound/game_start_200001.mp3", 1, { run: () => { } });
+			Laya.SoundManager.playSound("sound/game_start_200001.mp3", 1, {
+				run: () => {}
+			});
 		return oldNewRoundplay.call(this, e)
 	}
 	const oldmehule = view.ViewPlayer_Me.prototype.HulePrepare;
 	view.ViewPlayer_Me.prototype.HulePrepare = function (e, i, n) {
 		if (view.DesktopMgr.Inst["current_step"] > 0 && view.DesktopMgr.Inst["player_datas"][view.DesktopMgr.Inst["seat"]]["character"]["charid"] === 200001)
-			Laya.SoundManager.playSound("sound/hupai_200001.mp3", 1, { run: () => { } });
+			Laya.SoundManager.playSound("sound/hupai_200001.mp3", 1, {
+				run: () => {}
+			});
 		return oldmehule.call(this, e, i, n)
 	}
 })();
+/*
 (function () {
 	const fontMap = {
 		fengyu: {
@@ -190,3 +195,4 @@ requestAnimationFrame(function autoRun() {
 		}
 	}
 }())
+*/
